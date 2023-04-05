@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Amazon brand](https://github.com/kane108/Amazon-Brand.git)
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **HTML, CSS, JS, PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kane108](https://github.com/kane108)
 
