@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/kane108/
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-javier-echenique-559b56270/" height="30" width="40" /></a>
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/martin-javier-echenique-559b56270/](https://www.linkedin.com/in/kane108/)" height="30" width="40" /></a>
 <a href="https://instagram.com/elkanes47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elkanes47" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@elkane4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@elkane4" height="30" width="40" /></a>
 </p>
