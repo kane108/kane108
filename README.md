@@ -4,7 +4,7 @@
 
 <h3 align="center">A future web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Amazon brand](https://github.com/kane108/Amazon-Brand.git)
+- 🔭 I’m currently working on [Norway](https://github.com/kane108/Norway)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PYTHON**
 
